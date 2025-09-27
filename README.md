@@ -1,4 +1,9 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Atharva7895&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Atharva7895&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Atharva7895&title=Unique+Hits" alt="hits"/>
+  </a>
+</div>
 
 
 
