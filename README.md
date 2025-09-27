@@ -1,3 +1,6 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Atharva7895&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 # Hi, I'm Atharva 👋
 
 **AI/ML Research Engineer | Data Scientist**  
